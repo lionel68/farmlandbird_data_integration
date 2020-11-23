@@ -1,5 +1,7 @@
 # Repository to reproduce analyze and main figures from Data Integration manuscript
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4287172.svg)](https://doi.org/10.5281/zenodo.4287172)
+
 ## Description
 
 In this repository can be found R-scripts to reproduce the analysis and the main figures shown in the manuscript Hertzog et al "XX".
